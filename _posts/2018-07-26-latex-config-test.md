@@ -1,3 +1,12 @@
+---
+layout: post
+title: "-latex-config-test.md"
+date: 2018-07-26 22:00
+tags: analytics 
+description: This is a test for markdown and Latex.
+---
+
+
 ##
 ##
 ##
