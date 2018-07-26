@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Code Snippets Test"
-date: 2018-07-26 23:00:00
+date: 2018-07-25 23:00:00
 tags: code
 description: This is a test for Code Snippets Test.
 ---
