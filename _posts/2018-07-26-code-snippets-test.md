@@ -11,6 +11,7 @@ description: This is a test for Code Snippets Test.
 ----
 
 >Python
+{:.filename}
 {% highlight python %}
 def fun(a, b, c):
     return a * b - c
@@ -18,6 +19,7 @@ def fun(a, b, c):
 
 
 >Java
+{:.filename}
 {% highlight python %}
 public class MainThread{
     public static void main(String[] args){
