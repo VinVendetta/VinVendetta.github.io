@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Latex Config Test"
-date: 2018-07-26 22:00
+date: 2018-07-26 22:00:00
 tags: analytics 
 description: This is a test for markdown and Latex.
 ---
