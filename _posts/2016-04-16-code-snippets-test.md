@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Code Test"
-date: 2016-04-16 11:11:11.000000000 +09:00
+date: 2016-04-16 11:11:10
 description: This is a test for Code Snippets Test.
 tags: code
 ---
