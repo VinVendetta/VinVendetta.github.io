@@ -12,8 +12,8 @@ description: 介绍Java特点与三类语句
 - [数组](#arr)
 - [字符串](#string)
 - [几种常用的语句结构](#severalStruct)
-- [判断结构](#judge)
-- [循环结构](#recurrent)
+    - [判断结构](#judge)
+    - [循环结构](#recurrent)
 - [面向对象语言中的潜规则](#subrule)
 - [命令行下的Java（选读）](#commandline)
 
