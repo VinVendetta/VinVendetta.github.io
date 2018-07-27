@@ -18,12 +18,13 @@
     MathJax.Hub.Config({
       tex2jax: {
         skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-        inlineMath: [['$','$']]
+        inlineMath: [['$','$']],
+        "MathMenu": {showRenderer: false}
       }
     });
   </script>
   <script type="text/javascript"
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+  src="{{ '/assets/js/MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML' | relativ_url}}">
   </script>
   <!-- <script src="{{ '/assets/js/MathJax.js' | relative_url }}"></script> -->
   <link href="{{ '/assets/css/bootstrap.min.css' | relative_url }}" rel="stylesheet">
