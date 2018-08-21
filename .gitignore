@@ -1,5 +1,5 @@
 _cache
 _site
 .idea/
-assets/css/.DS_Store
-assets/.DS_Store
+.DS_Store
+.ipnb_checkpoints
